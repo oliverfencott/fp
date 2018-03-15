@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
+    "test": "jest",
     "start": "nodemon index.js"
   },
   "author": "Oliver Fencott <oliverfencott@gmail.com> (http://fencott.io)",
@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/oliverfencott/fp/issues"
   },
-  "homepage": "https://github.com/oliverfencott/fp#readme"
+  "homepage": "https://github.com/oliverfencott/fp#readme",
+  "devDependencies": {
+    "jest": "^23.0.0-alpha.0"
+  }
 }
