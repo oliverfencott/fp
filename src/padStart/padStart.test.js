@@ -1,4 +1,4 @@
-const padStart = require('./index');
+const padStart = require('./padStart');
 
 describe('padStart', () => {
   test(`it returns the same value as String.prototype.padStart`, () => {

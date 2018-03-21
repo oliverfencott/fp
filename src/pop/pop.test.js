@@ -1,4 +1,4 @@
-const pop = require('./index');
+const pop = require('./pop');
 
 describe('pop', () => {
   test('it is an immutable version of Array.prototype.pop', () => {

@@ -1,5 +1,3 @@
-const composePipeBase = require('../composePipeBase');
-
-const pipe = composePipeBase(x => x);
+const pipe = (...fns) => fns.reduce((f, g) => (...args) => g(f(...args)));
 
 module.exports = pipe;

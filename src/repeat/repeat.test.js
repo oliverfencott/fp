@@ -1,4 +1,4 @@
-const repeat = require('./index');
+const repeat = require('./repeat');
 
 describe('repeat', () => {
   test(`it returns the same value as String.prototype.repeat`, () => {

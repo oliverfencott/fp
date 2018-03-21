@@ -1,4 +1,4 @@
-const filter = require('./index');
+const filter = require('./filter');
 
 describe('filter', () => {
   const arr = [ 1, 2, 3 ];

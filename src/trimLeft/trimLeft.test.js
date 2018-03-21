@@ -1,4 +1,4 @@
-const trimLeft = require('./index');
+const trimLeft = require('./trimLeft');
 
 describe('trimLeft', () => {
   test(`it returns the same value as String.prototype.trimLeft`, () => {

@@ -1,4 +1,4 @@
-const reverse = require('./index');
+const reverse = require('./reverse');
 
 describe('reverse', () => {
   test('it is an immutable version of Array.prototype.reverse', () => {

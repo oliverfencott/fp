@@ -1,4 +1,4 @@
-const reduceRight = require('./index');
+const reduceRight = require('./reduceRight');
 
 describe('reduceRight', () => {
   const fn = (acc, x) => acc + x;

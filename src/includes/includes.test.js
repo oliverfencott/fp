@@ -1,4 +1,4 @@
-const includes = require('./index');
+const includes = require('./includes');
 
 describe('includes', () => {
   test('it is equal to Array.prototype.includes', () => {

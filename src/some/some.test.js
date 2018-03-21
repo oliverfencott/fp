@@ -1,4 +1,4 @@
-const some = require('./index');
+const some = require('./some');
 
 describe('some', () => {
   const arr = [ 1, 2, 3 ];

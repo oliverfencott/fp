@@ -1,4 +1,4 @@
-const join = require('./index');
+const join = require('./join');
 
 describe('join', () => {
   test('it is equal to Array.prototype.join', () => {

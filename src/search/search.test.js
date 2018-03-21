@@ -1,4 +1,4 @@
-const search = require('./index');
+const search = require('./search');
 
 describe('search', () => {
   test(`it returns the same value as String.prototype.search`, () => {

@@ -1,4 +1,4 @@
-const reduce = require('./index');
+const reduce = require('./reduce');
 
 describe('reduce', () => {
   const fn = (acc, x) => acc + x;

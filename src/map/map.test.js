@@ -1,4 +1,4 @@
-const map = require('./index');
+const map = require('./map');
 
 describe('map', () => {
   test('it is equal to Array.prototype.map', () => {

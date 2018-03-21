@@ -1,4 +1,4 @@
-const toUpperCase = require('./index');
+const toUpperCase = require('./toUpperCase');
 
 describe('toUpperCase', () => {
   test(`it returns the same value as String.prototype.toUpperCase`, () => {

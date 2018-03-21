@@ -1,4 +1,4 @@
-const push = require('./index');
+const push = require('./push');
 
 describe('push', () => {
   test('it is an immutable version of Array.prototype.push', () => {

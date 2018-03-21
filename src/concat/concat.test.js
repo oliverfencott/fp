@@ -1,4 +1,4 @@
-const concat = require('./index');
+const concat = require('./concat');
 
 describe('concat', () => {
   test(`it is equal to String.prototype.concat and Array.prototype.concat`, () => {

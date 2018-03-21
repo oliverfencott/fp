@@ -1,4 +1,4 @@
-const match = require('./index');
+const match = require('./match');
 
 describe('match', () => {
   test(`it is equal to String.prototype.match`, () => {

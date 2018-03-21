@@ -1,4 +1,4 @@
-const toFixed = require('./index');
+const toFixed = require('./toFixed');
 
 describe('toFixed', () => {
   test(`it returns the same value as Number.prototype.toFixed`, () => {

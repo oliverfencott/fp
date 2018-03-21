@@ -1,4 +1,4 @@
-const every = require('./index');
+const every = require('./every');
 
 describe('every', () => {
   const arr = [ 1, 2, 3 ];

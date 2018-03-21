@@ -1,4 +1,4 @@
-const padEnd = require('./index');
+const padEnd = require('./padEnd');
 
 describe('padEnd', () => {
   test(`it returns the same value as String.prototype.padEnd`, () => {

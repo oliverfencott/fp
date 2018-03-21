@@ -1,4 +1,4 @@
-const split = require('./index');
+const split = require('./split');
 
 describe('split', () => {
   test(`it is equal to String.prototype.split`, () => {

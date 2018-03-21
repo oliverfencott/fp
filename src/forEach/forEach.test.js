@@ -1,4 +1,4 @@
-const forEach = require('./index');
+const forEach = require('./forEach');
 
 describe('forEach', () => {
   test('it is equal to Array.prototype.forEach', () => {
