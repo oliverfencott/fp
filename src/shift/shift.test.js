@@ -1,0 +1,2 @@
+const shift = require('./index');
+

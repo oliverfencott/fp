@@ -1,3 +1,1 @@
-const trim = string => string.trim();
-
-module.exports = trim;
+module.exports = require('./trim');

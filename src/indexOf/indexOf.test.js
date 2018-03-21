@@ -1,0 +1,2 @@
+const indexOf = require('./index');
+

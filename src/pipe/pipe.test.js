@@ -1,0 +1,2 @@
+const pipe = require('./index');
+

@@ -1,3 +1,1 @@
-const shift = arr => [ ...arr ].shift();
-
-module.exports = shift;
+module.exports = require('./shift');

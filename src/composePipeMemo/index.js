@@ -1,3 +1,1 @@
-const composePipeMemo = (acc, fn) => fn(acc);
-
-module.exports = composePipeMemo;
+module.exports = require('./composePipeMemo');

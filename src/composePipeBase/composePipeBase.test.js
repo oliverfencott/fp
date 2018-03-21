@@ -1,0 +1,2 @@
+const composePipeBase = require('./index');
+

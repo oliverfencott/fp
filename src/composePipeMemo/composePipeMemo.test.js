@@ -1,0 +1,2 @@
+const composePipeMemo = require('./index');
+

@@ -1,0 +1,2 @@
+const replace = require('./index');
+

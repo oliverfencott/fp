@@ -1,3 +1,1 @@
-const reverse = arr => [ ...arr ].reverse();
-
-module.exports = reverse;
+module.exports = require('./reverse');

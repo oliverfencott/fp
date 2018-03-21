@@ -58,10 +58,6 @@ describe('toFixed', () => {
   });
 });
 
-// describe('split', () => {
-//   //
-// });
-
 describe('split', () => {
   test(`it is equal to String.prototype.split`, () => {
     expect(split('', 'hello')).toEqual(('hello').split(''));

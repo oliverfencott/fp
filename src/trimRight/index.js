@@ -1,3 +1,1 @@
-const trimRight = string => string.trimRight();
-
-module.exports = trimRight;
+module.exports = require('./trimRight');

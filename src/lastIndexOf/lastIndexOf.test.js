@@ -1,0 +1,2 @@
+const lastIndexOf = require('./index');
+

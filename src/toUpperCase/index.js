@@ -1,3 +1,1 @@
-const toUpperCase = string => string.toUpperCase();
-
-module.exports = toUpperCase;
+module.exports = require('./toUpperCase');

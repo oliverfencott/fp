@@ -1,3 +1,1 @@
-const sort = arr => [ ...arr ].sort();
-
-module.exports = sort;
+module.exports = require('./sort');

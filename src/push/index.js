@@ -1,5 +1,1 @@
-const concat = require('../concat');
-
-const push = concat;
-
-module.exports = push;
+module.exports = require('./push');

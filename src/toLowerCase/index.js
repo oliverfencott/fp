@@ -1,3 +1,1 @@
-const toLowerCase = string => string.toLowerCase();
-
-module.exports = toLowerCase;
+module.exports = require('./toLowerCase');

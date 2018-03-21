@@ -1,0 +1,2 @@
+const curry = require('./index');
+

@@ -1,0 +1,2 @@
+const findIndex = require('./index');
+
