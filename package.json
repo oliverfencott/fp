@@ -1,5 +1,5 @@
 {
-  "name": "toolkit",
+  "name": "reels",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,13 +11,13 @@
   "license": "ISC",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/oliverfencott/fp.git"
+    "url": "git+https://github.com/oliverfencott/reels.git"
   },
   "bugs": {
-    "url": "https://github.com/oliverfencott/fp/issues"
+    "url": "https://github.com/oliverfencott/reels/issues"
   },
-  "homepage": "https://github.com/oliverfencott/fp#readme",
+  "homepage": "https://github.com/oliverfencott/reels#readme",
   "devDependencies": {
-    "jest": "^23.0.0-alpha.0"
+    "jest": "^22.4.3"
   }
 }
