@@ -2,7 +2,7 @@
   "name": "reels",
   "version": "1.0.1",
   "description": "",
-  "main": "index.js",
+  "main": "lib",
   "scripts": {
     "dev": "nodemon index.js",
     "prepublishOnly": "npm run prepare",
